@@ -2991,6 +2991,15 @@ a:visited {
   background-image: url("../assets/img/branden-miller-cover.jpg");
 }
 
+#michael-melmer-card {
+  background-image: url("../assets/img/michael-melmer.jpg");
+}
+
+#michael-melmer-cover {
+  background-image: url("../assets/img/michael-melmer-cover.jpg");
+}
+
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
